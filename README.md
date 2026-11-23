@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="img.png" alt="Resume–Job Matcher project poster" width="900" />
-</div>
-
 <h1 align="center">Intelligent Resume–Job Matching System</h1>
 
 <p align="center">
@@ -14,6 +10,10 @@
 </p>
 
 ---
+<div align="center">
+  <img src="img.png" alt="Resume–Job Matcher project poster" width="900" />
+</div>
+
 
 ## Overview
 
